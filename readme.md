@@ -1,6 +1,6 @@
 # Local SQL Database Cleanup Script
 
-This script is designed to delete all databases on your local SQL instance. It's particularly useful for software support purposes when your local SQL instance gets bloated with many databases for different versions of software.
+This script is designed to delete all databases on your local MS-SQL instance. It's particularly useful for software support purposes when your local SQL instance gets bloated with many databases for different versions of software.
 
 ## Installation
 
